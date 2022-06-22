@@ -4,7 +4,7 @@ Assalamualaikum, i am trying to create a simple app dekstop for making us to cou
 
 ## Begin Show User
 ![image](https://user-images.githubusercontent.com/88366703/174962292-9f2d8520-269d-4027-b858-68a85ffe10e2.png)
-###You can count your dzikir now in the pc when you confuse don't know what's to do next
+### You can count your dzikir now in the pc when you confuse don't know what's to do next
 
 ## With Simple UI make you easy and free to use it
 ![image](https://user-images.githubusercontent.com/88366703/174962375-7ad14798-0e10-4a3b-a643-0820152ba6f7.png)
