@@ -1,0 +1,15 @@
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\bin\Debug\AdzDzikir.exe.config
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\bin\Debug\AdzDzikir.exe
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\bin\Debug\AdzDzikir.pdb
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.csprojAssemblyReference.cache
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.Form1.resources
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.Properties.Resources.resources
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.csproj.GenerateResource.cache
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.csproj.CoreCompileInputs.cache
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.exe
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.pdb
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\bin\Debug\AdzDzikir.exe.manifest
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\bin\Debug\AdzDzikir.application
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.TrustInfo.xml
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.exe.manifest
+R:\C++ Projek RealTime\CSharp\AdzDzikir\AdzDzikir\obj\Debug\AdzDzikir.application
